@@ -1,0 +1,14 @@
+{
+  "itemGroup.slimeboots": "Example Mod Tab",
+  "block.slimeboots.example_block": "Example Block",
+  "item.slimeboots.example_item": "Example Item",
+
+  "slimeboots.configuration.title": "SlimeBoots Configs",
+  "slimeboots.configuration.section.slimeboots.common.toml": "SlimeBoots Configs",
+  "slimeboots.configuration.section.slimeboots.common.toml.title": "SlimeBoots Configs",
+  "slimeboots.configuration.items": "Item List",
+  "slimeboots.configuration.logDirtBlock": "Log Dirt Block",
+  "slimeboots.configuration.magicNumberIntroduction": "Magic Number Text",
+  "slimeboots.configuration.magicNumber": "Magic Number",
+  "enchantment.slimeboots.slime_fall": "Slime Fall"
+}

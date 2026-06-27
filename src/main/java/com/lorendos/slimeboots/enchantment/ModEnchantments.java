@@ -20,14 +20,12 @@ public class ModEnchantments {
 
         register(context, SLIME_FALL,Enchantment.enchantment(Enchantment.definition(
                 items.getOrThrow(ItemTags.FOOT_ARMOR_ENCHANTABLE),
-                items.getOrThrow(ItemTags.ARMOR_ENCHANTABLE),
                 5,
                 1,
                 Enchantment.dynamicCost(5,7),
                 Enchantment.dynamicCost(25,7),
                 2,
                 EquipmentSlotGroup.FEET))
-                .exclusiveWith(enchantments.getOrThrow(EnchantmentTags.BOOTS_EXCLUSIVE))
         );
     }
 

@@ -1,7 +1,7 @@
 package com.lorendos.slimeboots.enchantment;
 
 import com.lorendos.slimeboots.SlimeBootsMod;
-import com.lorendos.slimeboots.enchantment.custom.SlimeFallEnchantmentEffect;
+import com.lorendos.slimeboots.enchantment.custom.effects.SlimeFallEnchantmentEffect;
 import com.mojang.serialization.MapCodec;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.enchantment.effects.EnchantmentEntityEffect;
